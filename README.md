@@ -9,7 +9,7 @@ This project allows users to paste a YouTube playlist link, watch videos without
 - **AI-powered summaries**: Get a concise summary of each video using Gemini API.
 
 ## Tech Stack
-- **Frontend**: Next.js + TypeScript (for UI & video player)
+- **Frontend**: React.js + TypeScript (for UI & video player)
 - **APIs Used**:
   - [YouTube Data API](https://console.cloud.google.com/apis/library/youtube.googleapis.com) (for fetching video data & streaming links)
   - [Gemini API](https://ai.google.dev/) (for advanced AI-based text processing)
